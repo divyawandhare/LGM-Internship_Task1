@@ -214,9 +214,9 @@ img {vertical-align: middle;}
   width: 84%;
 }
 
-.bg-warning {
+/* .bg-warning {
   background-image: url(img/mech.jpeg)
-}
+} */
 
 #projects .all-projects{
     display: flex;
